@@ -1,6 +1,10 @@
 # RESAS_population_GRAPH
 
-## Usage
+## 注意
+
+Node.jsにて作成しています。
+
+## 使用方法
 
 [RESAS](https://opendata.resas-portal.go.jp/)よりAPIkeyを取得してください  
 
