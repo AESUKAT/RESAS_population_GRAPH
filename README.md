@@ -4,7 +4,7 @@
 
 [RESAS](https://opendata.resas-portal.go.jp/)よりAPIkeyを取得してください  
 
-作成したkeyは'/src'内の'RESAS_Api_Key.js'へ記入してください  
+作成したkeyは`/src`内の`RESAS_Api_Key.js`へ記入してください  
 
 `export default 'YOUR_API_KEY';`
 
