@@ -11,9 +11,13 @@
 Highchartsが未インストールの場合は以下のコマンドを入力してください
 
 `npm install -save highcharts-react-official highcharts`  
+
+以下、起動方法  
   
 `cd 'Your_folder_address'`  
 
 `$ npm install`  
 
 `$ npm start`
+  
+終了時、`ctrl + c` の後、 `Y`で終了
