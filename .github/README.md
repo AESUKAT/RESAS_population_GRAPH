@@ -4,7 +4,11 @@
 
 Node.jsにて作成しています。
 
-## 使用方法
+## WEB
+
+https://resaspopgraph.vercel.app/
+
+## local
 
 main内の物を全てダウンロードしてください。  
 
@@ -25,8 +29,6 @@ Highchartsが未インストールの場合は以下のコマンドを入力し�
 `$ npm install`  
   
 `$ npm install --save-dev eslint-plugin-react @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-react-hooks prettier eslint-plugin-prettier husky lint-staged`
-
-`.eslintrc.js`の中身を`eslintrc.js`のものに書き換える  
 
 `$ npm start`
   
